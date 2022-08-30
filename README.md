@@ -7,6 +7,7 @@
 - Se precisar de uma interface, existe o Mysql Workbench, pode clicar em [baixar](https://dev.mysql.com/downloads/workbench/)
 - Crie um banco de dados com o arquivo musicas.sql
 - coloque as resposta em um arquivo PDF
+- Abra um Pull Request para este repositório
 
 #### Crie as queries para as seguintes situações
 
