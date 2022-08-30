@@ -6,8 +6,8 @@
 - Instale o **MySQL** clicando em [Windows](https://www.w3schools.com/mysql/mysql_install_windows.asp), [Macos](https://br.ccm.net/faq/18004-como-instalar-o-mysql-no-mac-os-x) ou [Linux](https://www.w3schools.com/mysql/mysql_install_linux.asp)
 - Se precisar de uma interface, existe o Mysql Workbench, pode clicar em [baixar](https://dev.mysql.com/downloads/workbench/)
 - Crie um banco de dados com o arquivo musicas.sql
-- coloque as resposta em um arquivo PDF
-- Abra um Pull Request para este repositório
+- coloque as resposta em um arquivo PDF e enviar para joel@holistix.com.br
+- Abra um Pull Request para este repositório com as queries SQL
 
 #### Crie as queries para as seguintes situações
 
