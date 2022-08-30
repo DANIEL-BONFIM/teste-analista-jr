@@ -23,3 +23,6 @@
 4) Como colocar View do Tableau em uma página Web (Embed)?
 5) Quais os tipos de dados são utilizados no Tableau?
 
+Qualquer dúvida entrar em contato com **Joel Maykon**
+https://br.linkedin.com/in/joelmaykon
+
