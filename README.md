@@ -17,9 +17,9 @@
 5) Quantas músicas tem cada gênero?
 
 #### Tableau
-1) Qual a quantidade máxima de tabela pode ser feito join no Tableau?
-2) Qual o nome dos componentes de dashboards do Tableau?
-3) O que é arquivo TDE?
+1) Qual a quantidade máxima de tabelas pode ser feito join no Tableau?
+2) Qual o nome dos componentes das dashboards do Tableau?
+3) O que é um arquivo TDE?
 4) Como colocar View do Tableau em uma página Web (Embed)?
 5) Quais os tipos de dados são utilizados no Tableau?
 
